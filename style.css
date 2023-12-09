@@ -48,3 +48,13 @@ body{
 .boxs:hover .dropdown-items{
     display: block;
 }
+.a{
+    text-decoration: none;
+}
+.but{
+    outline-width: 2px;
+    outline-style: solid;
+}
+.is{
+    margin-left: 15px;
+}
